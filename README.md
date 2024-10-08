@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibaiba2112
 - 👀 I’m interested in Music, History, Politics and Coding of course
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning React
 - 📫 How to reach me -> ibaiba2112@gmail.com
 - ⚡ Fun fact: I am left handed but play drums right handed lol
 
